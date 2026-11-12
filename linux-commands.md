@@ -7,3 +7,4 @@
 -'cat' - Displays the contents of a file.
 -'mv' - Moves or renames a file or folder
 -'rm' - Deletes a file.
+-'touch' - Creates an empty file.
